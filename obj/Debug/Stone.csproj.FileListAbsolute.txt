@@ -1,0 +1,10 @@
+D:\YYJ\Stone\Stone\bin\Debug\Stone.exe.config
+D:\YYJ\Stone\Stone\bin\Debug\Stone.exe
+D:\YYJ\Stone\Stone\bin\Debug\Stone.pdb
+D:\YYJ\Stone\Stone\obj\Debug\Stone.csproj.AssemblyReference.cache
+D:\YYJ\Stone\Stone\obj\Debug\Stone.Form1.resources
+D:\YYJ\Stone\Stone\obj\Debug\Stone.Properties.Resources.resources
+D:\YYJ\Stone\Stone\obj\Debug\Stone.csproj.GenerateResource.cache
+D:\YYJ\Stone\Stone\obj\Debug\Stone.csproj.CoreCompileInputs.cache
+D:\YYJ\Stone\Stone\obj\Debug\Stone.exe
+D:\YYJ\Stone\Stone\obj\Debug\Stone.pdb
